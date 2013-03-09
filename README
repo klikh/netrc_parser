@@ -1,7 +1,7 @@
 The parser of .netrc (_netrc on Windows) file content.
 
 Extracted from intellij-community codebase.
-Tt is not needed there anymore, but I don't want to loose it completely.
+It is not needed there anymore, but I don't want to loose it completely.
 Will return if needed.
 
 The .netrc file format is:
